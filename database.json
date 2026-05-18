@@ -1,0 +1,26 @@
+{
+  "clients": [
+    {
+      "id": 1779094496430,
+      "name": "Test Client",
+      "phone": "+21699000001",
+      "email": "test@test.com",
+      "city": "Tunis",
+      "code": "SVF-N3DZHZ",
+      "kw": 0,
+      "referrals": 0,
+      "panelsEarned": 0,
+      "panelsUsed": 0,
+      "history": [
+        {
+          "type": "inscription",
+          "label": "Inscription au programme",
+          "date": "18/05/2026",
+          "pts": ""
+        }
+      ],
+      "createdAt": "2026-05-18T08:54:56.317Z"
+    }
+  ],
+  "admin_pin": "1234"
+}
