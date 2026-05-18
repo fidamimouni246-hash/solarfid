@@ -276,7 +276,7 @@ const server = http.createServer(async (req, res) => {
   json(res, { error: 'Route non trouvée' }, 404);
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log('');
   console.log('╔══════════════════════════════════════╗');
   console.log('║   ☀️  SolarFid — Serveur démarré      ║');
